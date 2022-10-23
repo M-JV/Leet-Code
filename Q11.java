@@ -4,3 +4,4 @@ public int[] buildArray(int[] nums) {
 		ans[i] = nums[nums[i]];
 	return ans;
 }
+
